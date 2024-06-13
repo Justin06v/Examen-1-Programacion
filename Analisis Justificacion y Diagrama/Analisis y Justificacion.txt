@@ -1,0 +1,13 @@
+Primer examen programación I 
+
+Análisis: Desarrollaré un programa para hogares, comunidades e instituciones en el que el usuario ingrese, el tipo de usuario que va a realizar el proceso, el tipo de materiales que desea reciclar luego ingresa el total de este material que recicló, también se le preguntara si desea ingresar otro tipo de material, al finalizar, verá todas las estadísticas acumuladas y por último podrá canjear los puntos ganados según lo reciclado. 
+
+Justificación: Escogí este enunciado porque creo que para el día a día es más fácil aplicarlo que los otros dos, aunque las propuestas de los tres enunciados ayudan al medio ambiente, el primero tiene muchos beneficios más.  
+
+En el caso del segundo enunciado se debe tener instrumentos para medir con exactitud los factores del clima y en el caso del tercero, no todas las personas acceden a este tipo de inteligencia, por eso me parece más accesible la propuesta del primer enunciado. 
+
+Además, aparte de que ayudamos al medio ambiente reciclando y poniendo todos de nuestra parte, también se educan a los niños y se les enseña a ser responsables con el medio ambiente enseñándoles a como clasificar los residuos. 
+
+Otro punto es que aparte de ayudar al ambiente, también somos beneficiados ya que en base a los que reciclamos, recibimos puntos que podemos canjear por dinero o por cosas que sean útiles.
+
+Diagrama de flujo: El diagrama lo tuve que subir en 3 imágenes diferentes porque lucid chart tiene limite de objetos y la web que un compañero había recomendado no me funcionó, por ende no pude pasar un flecha desde la decisión que si quería volver a ingresar otro usuario y tuve que poner como proceso que volviera al inicio, espero me entienda, gracias.
